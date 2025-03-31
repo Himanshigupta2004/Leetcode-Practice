@@ -57,4 +57,20 @@
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
+## Depth-First Search
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Union Find
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Graph
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
