@@ -11,12 +11,7 @@
  */
 class Solution {
 public:
-    void postorder(TreeNode* root,vector<int>& post){
-        if(root==NULL) return;
-        if(root->left) postorder(root->left,post);
-        if(root->right) postorder(root->right,post);
-        post.push_back(root->val);
-    }
+
     int height(TreeNode* root) {
         if(root == NULL) return 0;
         return 1 + max(height(root->left), height(root->right));
@@ -32,8 +27,7 @@ public:
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
         if(root==NULL) return NULL;
         // [6, 7, 4, 2, 5, 0, 8, 1, 3]
-        vector<int> post;
-        postorder(root,post);
+
         int maxdepth=height(root);
         return lca(root,1,maxdepth);
     }
