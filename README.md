@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -69,6 +70,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -104,6 +106,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -116,6 +119,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -136,4 +140,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
