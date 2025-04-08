@@ -64,6 +64,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
