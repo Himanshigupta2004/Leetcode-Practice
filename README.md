@@ -63,6 +63,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -74,6 +75,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -95,6 +97,7 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -105,6 +108,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
