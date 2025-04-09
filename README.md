@@ -74,6 +74,7 @@
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -112,6 +113,7 @@
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -127,6 +129,7 @@
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
