@@ -25,6 +25,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
