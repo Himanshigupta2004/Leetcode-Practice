@@ -75,6 +75,7 @@
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
@@ -91,6 +92,7 @@
 | [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -122,6 +124,7 @@
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
@@ -144,6 +147,7 @@
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
