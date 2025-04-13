@@ -86,6 +86,7 @@
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
