@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -113,6 +114,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
 |  |
