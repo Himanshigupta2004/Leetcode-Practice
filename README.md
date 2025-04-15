@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2998-count-symmetric-integers) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
