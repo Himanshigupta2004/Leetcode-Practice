@@ -82,6 +82,7 @@
 | [0563-binary-tree-tilt](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
+| [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -98,6 +99,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -109,6 +111,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Linked List
 |  |
@@ -198,4 +201,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
