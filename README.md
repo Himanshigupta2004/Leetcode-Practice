@@ -83,6 +83,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0687-longest-univalue-path) |
 | [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -100,6 +101,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Linked List
 |  |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
