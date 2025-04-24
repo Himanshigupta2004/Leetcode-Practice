@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
@@ -195,6 +196,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -209,6 +211,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 ## Heap (Priority Queue)
 |  |
