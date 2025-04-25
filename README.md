@@ -236,4 +236,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
