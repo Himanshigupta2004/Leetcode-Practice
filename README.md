@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2998-count-symmetric-integers) |
