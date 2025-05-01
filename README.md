@@ -13,6 +13,7 @@
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,4 +275,12 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
