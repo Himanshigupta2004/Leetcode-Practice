@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
