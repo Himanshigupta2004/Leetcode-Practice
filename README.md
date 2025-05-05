@@ -38,6 +38,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -58,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0227-basic-calculator-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
