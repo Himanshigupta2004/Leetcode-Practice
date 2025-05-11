@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -80,6 +81,7 @@
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
