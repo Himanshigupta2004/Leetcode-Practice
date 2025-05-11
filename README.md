@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 ## Queue
 |  |
@@ -124,6 +126,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -260,6 +263,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
