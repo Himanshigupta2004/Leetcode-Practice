@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 ## Queue
@@ -98,6 +100,7 @@
 | [0113-path-sum-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
@@ -124,6 +127,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
@@ -139,6 +143,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
