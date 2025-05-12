@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
+| [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -85,6 +86,7 @@
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
+| [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Queue
 |  |
@@ -127,6 +129,7 @@
 | [0904-leaf-similar-trees](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -148,6 +151,7 @@
 | [0801-is-graph-bipartite](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -158,6 +162,7 @@
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
