@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
@@ -63,6 +64,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
@@ -99,6 +102,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -241,6 +245,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1030-smallest-string-starting-from-leaf) |
