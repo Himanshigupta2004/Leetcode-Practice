@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
@@ -84,6 +85,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0661-image-smoother) |
 | [1073-number-of-enclaves](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
@@ -115,6 +117,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -143,6 +146,7 @@
 | [0133-clone-graph](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
@@ -171,6 +175,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
@@ -287,12 +292,14 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
@@ -330,4 +337,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
