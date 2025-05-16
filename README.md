@@ -9,6 +9,7 @@
 | [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -82,6 +83,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -341,4 +343,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
