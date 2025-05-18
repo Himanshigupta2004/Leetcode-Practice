@@ -46,6 +46,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0227-basic-calculator-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
@@ -346,5 +348,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
