@@ -20,6 +20,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -254,6 +255,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
 |  |
@@ -262,6 +264,7 @@
 | [0042-trapping-rain-water](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshigupta2004/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
